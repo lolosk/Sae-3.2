@@ -1,4 +1,4 @@
-# SA-3.2 : Développer des applications communicantes
+# Saé-3.2 : Développer des applications communicantes
 
 ## 📱 Projet
 
