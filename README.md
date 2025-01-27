@@ -15,7 +15,21 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 
 ## ⚙️ Fonctionnalités principales
 
-1. **Calculateur réseau IPv4 :**
+1. **Bloc-note :**
+   - Pouvoir saisir une nouvelle note
+   - Editer une note
+   - Sauvegarder une note
+   - Effacer une note
+  
+2. **Speed test :**
+   - Pouvoir tester la latence de mon réseau
+   - Controler notre vitesse de téléchargement
+
+3. **Analyse du réseau Wi-Fi :**
+   - Affichage de l'intensité du signal Wi-Fi.
+   - Informations sur le SSID et la bande utilisée.
+
+4. **Calculateur réseau IPv4 :**
    - Saisie des quatre octets d'une adresse IPv4 et du CIDR (par exemple : `192.168.1.1/24`).
    - Validation des entrées pour s'assurer de leur validité (octets entre 0 et 255, masque CIDR entre 0 et 32).
    - Affichage des informations suivantes :
@@ -25,15 +39,14 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
      - Plage d'adresses utilisables.
      - Adresse de diffusion.
 
-2. **Analyse du réseau Wi-Fi :**
-   - Affichage de l'intensité du signal Wi-Fi.
-   - Informations sur le SSID et la bande utilisée.
+## 🪖 Contrainte
 
-3. **Interface multilingue :**
+
+1. **Interface multilingue :**
    - Support des langues **français** et **anglais** via des fichiers `strings.xml`.
    - La langue par défaut est l'anglais, avec une option pour basculer en français.
 
-4. **Application multipages :**
+2. **Application multipages :**
    - Navigation simple entre les différentes sections grâce à un menu.
 
 ---
