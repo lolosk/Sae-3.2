@@ -79,9 +79,37 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 
 - à compléter
 
-### Page 2 : Analyse du réseau Wi-Fi
-- Affichage en temps réel de l'intensité du signal Wi-Fi.
-- Détails sur le SSID et la bande utilisée.
+### Page 2 : Menu de l'application
+
+<img src="./images/img2.jpeg" alt="Page connexion" width="300" height="400"/>
+
+- Affiche le menu pour selectionner ce que l'on veut faire avec l'appli
+- un background annimé avec des bulles
+
+### Page 3 : Un bloc-note
+
+<img src="./images/img3.jpeg" alt="Page connexion" width="300" height="400"/>
+
+- gggg
+
+### Page 4 : Un speed test
+
+<img src="./images/img4.jpeg" alt="Page connexion" width="300" height="400"/>
+
+- gggg
+
+### Page 5 : Un analyseur wifi
+
+<img src="./images/img5.jpeg" alt="Page connexion" width="300" height="400"/>
+
+- gggg
+
+### Page 6 : Un calculateur réseau
+
+<img src="./images/img6.jpeg" alt="Page connexion" width="300" height="400"/>
+
+- gggg
+
 
 ---
 
