@@ -73,9 +73,11 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 
 ## 📸 Aperçu de l'application
 
-### Page 1 : Calculateur réseau IPv4
-- Entrée des octets et du masque CIDR.
-- Résultats affichés : masque réseau, adresse réseau, plage d'adresses utilisables.
+### Page 1 : Page de connexion
+
+![Page connexion](./images/img1)
+
+- à compléter
 
 ### Page 2 : Analyse du réseau Wi-Fi
 - Affichage en temps réel de l'intensité du signal Wi-Fi.
