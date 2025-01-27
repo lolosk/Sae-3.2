@@ -75,7 +75,7 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 
 ### Page 1 : Page de connexion
 
-<img src="./images/img1.jpeg" alt="Page connexion" width="300"/>
+<img src="./images/img1.jpeg" alt="Page connexion" width="300" height="400"/>
 
 - à compléter
 
