@@ -97,6 +97,6 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 1. Télécharger [Android Studio](https://developer.android.com/studio).
 2. Cloner ce dépôt GitHub :
    ```bash
-   git clone https://github.com/<ton-utilisateur>/<nom-du-repo>.git
+   git clone https://github.com/lolosk/Sae-3.2.git
 
 
