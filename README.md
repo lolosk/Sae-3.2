@@ -75,38 +75,38 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 
 ### Page 1 : Page de connexion
 
-<img src="./images/img1.jpeg" alt="Page connexion" width="300" height="500"/>
+<img src="./images/img1.jpeg" alt="Page connexion" width="300" height="520"/>
 
 - à compléter
 
 ### Page 2 : Menu de l'application
 
-<img src="./images/img2.jpeg" alt="Page connexion" width="300" height="500"/>
+<img src="./images/img2.jpeg" alt="Page connexion" width="300" height="520"/>
 
 - Affiche le menu pour selectionner ce que l'on veut faire avec l'appli
 - un background annimé avec des bulles
 
 ### Page 3 : Un bloc-note
 
-<img src="./images/img3.jpeg" alt="Page connexion" width="300" height="500"/>
+<img src="./images/img3.jpeg" alt="Page connexion" width="300" height="520"/>
 
 - gggg
 
 ### Page 4 : Un speed test
 
-<img src="./images/img4.jpeg" alt="Page connexion" width="300" height="500"/>
+<img src="./images/img4.jpeg" alt="Page connexion" width="300" height="520"/>
 
 - gggg
 
 ### Page 5 : Un analyseur wifi
 
-<img src="./images/img5.jpeg" alt="Page connexion" width="300" height="500"/>
+<img src="./images/img5.jpeg" alt="Page connexion" width="300" height="520"/>
 
 - gggg
 
 ### Page 6 : Un calculateur réseau
 
-<img src="./images/img6.jpeg" alt="Page connexion" width="300" height="500"/>
+<img src="./images/img6.jpeg" alt="Page connexion" width="300" height="520"/>
 
 - gggg
 
@@ -125,8 +125,9 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 ## 📋 Installation
 
 1. Télécharger [Android Studio](https://developer.android.com/studio).
-2. Cloner ce dépôt GitHub :
+2. Cloner ce dépôt GitHub pour les instructions et télécharger l'apk :
    ```bash
    git clone https://github.com/lolosk/Sae-3.2.git
+3. Télécharger [Le projet](https://drive.google.com/file/d/1cT4zfW1PPQlL00OJwgBsUTBVeSV13Wli/view?usp=sharing).
 
 
