@@ -15,7 +15,7 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 
 ## ⚙️ Fonctionnalités principales
 
-1. **Bloc-note :**
+1. **Bloc-notes :**
    - Pouvoir saisir une nouvelle note
    - Editer une note
    - Sauvegarder une note
@@ -77,7 +77,7 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 
 <img src="./images/img1.jpeg" alt="Page connexion" width="300" height="520"/>
 
-- Cette pages représante l'interf
+- Cette pages représante l'interface pour ce connecter avec un nom d'utilisateur et un mot de passe ou la possibilité de créer un profil.
 
 ### Page 2 : Menu de l'application
 
@@ -90,25 +90,24 @@ Le projet consiste à créer un prototype d'application Android qui pourrait êt
 
 <img src="./images/img3.jpeg" alt="Page connexion" width="300" height="520"/>
 
-- gggg
-
+- Cette page permet de créer des notes, de les sauvegardés dans le cache, de les modifier et de les supprimer.
 ### Page 4 : Un speed test
 
 <img src="./images/img4.jpeg" alt="Page connexion" width="300" height="520"/>
 
-- gggg
+- Cette page permet de tester le débit ascendant de notre appareil.
 
 ### Page 5 : Un analyseur wifi
 
 <img src="./images/img5.jpeg" alt="Page connexion" width="300" height="520"/>
 
-- gggg
+- Permet d'afficher l'adresse IPV4, l'adresse MAC et l'intensité du signal WIFI (RSSI) avec un idicateur interactif.
 
 ### Page 6 : Un calculateur réseau
 
-<img src="./images/img6.jpeg" alt="Page connexion" width="300" height="520"/>
+<img src="./images/img8.jpeg" alt="Page connexion" width="300" height="520"/>
 
-- gggg
+- Permet de calculer le mask de sous réseau, l'adresse réseau et la plage d'adresses à partir d'une adresse IPV4.
 
 
 ---
